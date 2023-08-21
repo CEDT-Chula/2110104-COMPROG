@@ -18,6 +18,6 @@ int main() {
             counter++;
             i++;
         }
-        cout << input[i] << counter;
+        cout << input[i] << " " << counter << " ";
     }
 }
